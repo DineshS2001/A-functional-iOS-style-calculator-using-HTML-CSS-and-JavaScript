@@ -24,3 +24,5 @@ It supports fundamental arithmetic operations and AC, +/- and % functions like a
 - `basicCal.css` – CSS file for styles
 - `calculator.js` – JavaScript file for calculator functionality
 
+![Calculator Screenshot](screenshot.png)
+
