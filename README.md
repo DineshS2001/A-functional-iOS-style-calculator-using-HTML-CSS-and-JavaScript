@@ -14,7 +14,7 @@ It supports fundamental arithmetic operations and AC, +/- and % functions like a
 
 ## How to Use
 
-1. Open `basicCal` in any current web browser.
+1. Open `basicCal.html` in any current web browser.
 2. Click on the buttons to perform calculations.
 3. Works perfectly on desktop and mobile.
 
